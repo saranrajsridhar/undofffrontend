@@ -1,4 +1,3 @@
-
 import '../static/css/styles.css'
 import React from 'react';
 import './aboutus/index';
